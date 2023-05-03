@@ -12,4 +12,6 @@ This project is based on Nucleo STM32F429ZI microcontroller. And the repo contai
 # Control algorithm
 -LQR (Linear–quadratic regulator) Included in the software + Synthesis using Matlab scirpt
 
+![Image description](/Downloads/imu-sensor.jpg)
+
 
