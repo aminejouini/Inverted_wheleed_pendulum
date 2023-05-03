@@ -4,7 +4,7 @@ This project is based on Nucleo STM32F429ZI microcontroller. And the repo contai
 - MATLAB scripts and and a block diagram on SIMULINK to observe the closed loop system response 
 
 # Electronics hardware
--Nuceleo STM32F429ZI
+-Nuceleo STM32F429ZI \n
 -Optical encoder 
 -DC motor driver L298N
 -DC motor with 800 rpm
